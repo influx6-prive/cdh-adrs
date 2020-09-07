@@ -18,3 +18,7 @@ Pentaho  | [Pentaho ADR](./adrs/pentaho.md)
 CDH Service | [CDH ADR](./adrs/cdh.md)
 
 
+# Links
+
+- https://adr.github.io/
+- https://github.com/joelparkerhenderson/architecture_decision_record
