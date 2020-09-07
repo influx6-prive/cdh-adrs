@@ -36,11 +36,9 @@ Check for more specifics as regards the listed points above in [ETL ADRS](#etl-a
 
 - [CDH & ETL Communication](./etl_cdh_communication.md)
 - [ETL DB Sync](./etl_db_synchronization.md)
-- [ETL Feed Parser](./etl_feed_parser.md)
+- [ETL Feed Parsers](./etl_feed_parsers.md)
 - [ETL File Delivery](./etl_file_delivery.md)
 - [ETL & Tenant Relationship](./etl_tenancy_relationship.md)
-
-## Consequences
 
 
 ## Links
