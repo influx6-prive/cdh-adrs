@@ -3,7 +3,7 @@ This AD contains all documentation related to the current existing work ongoing 
 
 *The documentation will be a living documentation for all things related to CDH and will be terse where necessary and broad when needed.*
 
-![CDH Workshop Goals](./assets/images/aab_workshop/aab_2.jpg)
+![CDH Workshop Goals](./docs/assets/images/aab_workshop/aab_2.jpg)
 
 Created ADRs using [ADR Tools](https://github.com/npryce/adr-tools).
 
