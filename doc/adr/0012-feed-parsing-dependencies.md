@@ -41,7 +41,7 @@ Problems:
  - We must implement more code to provide cleaner abstractions for retrieving/querying previous results (setup cost)
  - We must still fall back to processing source files if the result does not yet exists in db (so why not do it all the time?).
 
-TradeOffs: Performance over Code Complexity
+**TradeOffs: Performance over Code Complexity**
 
 Because if we choose option 1 then we increase complexity in execution time as each parsing data can requests multiple files for reprocessing to reconcile inconsistency, while option 2 means we must manage another database if going on a relational store to persist such processing results for later read-heavy querying.
 
