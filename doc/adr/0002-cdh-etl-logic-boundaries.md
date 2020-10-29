@@ -8,7 +8,6 @@ Accepted
 
 ## Context
 
-The issue motivating this decision, and any context that influences or constrains the decision.
 To ensure a clear separation as regards what logic resides within CDH and ETL related services where there exists feed specific 
 requirements during onboarding and processing of feed files, the following issues where considered:
 
